@@ -1,0 +1,18 @@
+- look up adaptive dynamics models in python
+
+- Hyphae
+    - simple rules
+        - growth rate, branch rate, anastamosis, angle, etc
+    - tracking where it has grown
+
+- game env
+    - resources 
+    - scoring - distance formula?
+    - some time metric (when to stop)
+
+- scalability
+    - create new simulations
+        - potentially run these in parallel?
+    - select new generations of hyphae based on score
+        - modify new generations simple rules
+            - run 1 mil times
